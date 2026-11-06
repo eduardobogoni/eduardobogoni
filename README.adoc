@@ -1,0 +1,7 @@
+= Eduardo H. Bogoni
+
+My work is in these places:
+
+* Personal projects: https://github.com/eduardobogoni?tab=repositories.
+* E.A.C. projects: https://github.com/esquilo-azul and https://redmine.esquiloazul.com.br.
+* Miscellaneous stuff: https://ehb.esquiloazul.com.br.
